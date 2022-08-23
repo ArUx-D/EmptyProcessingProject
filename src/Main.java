@@ -1,10 +1,10 @@
 import MyPApplet.MyPApplet;
 import processing.core.*;
 
-public class Empty extends MyPApplet {
+public class Main extends MyPApplet {
 
     public static void main(String[] args) {
-        PApplet.main("Empty");
+        PApplet.main("Main");
     }
 
     @Override
